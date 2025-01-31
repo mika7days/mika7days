@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Mika! 👋
 
-<!--
-**mika7days/mika7days** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I generated this artificially, lol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Frameworks/Libraries:** Next, React, Node.js, Express
+- **Tools:** Git, VS Code, Jupyter Notebook
+
+### GitHub Stats
+
+![Mika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mika7days&show_icons=true&theme=radical)
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mika7days)
+- [Twitter](https://twitter.com/mika7days)
